@@ -1,0 +1,14 @@
+C:\Users\Sir Manley\source\repos\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+C:\Users\Sir Manley\source\repos\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+C:\Users\Sir Manley\source\repos\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+C:\Users\Sir Manley\source\repos\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+C:\Users\Sir Manley\source\repos\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+C:\Users\Sir Manley\source\repos\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
